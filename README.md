@@ -2,7 +2,7 @@
 Face Recognition from webcam and Picture using EmguCV 3.2
 
 # Programming Language: C#
-Using .Net framework, EmguCV 3.2, Windows Form project. In general, you can convert this into any other type of projects.
+Using .Net framework, EmguCV 3.2, SQLite for database, Windows Form project. In general, you can convert this into any other type of projects.
 
 # Setup:
 Well... just start the project, train using picture(s). Then try recognizing faces on other pictures (or camera) using Recognize function. If any adjustment required, just change them in RecognizeEngine Class.
